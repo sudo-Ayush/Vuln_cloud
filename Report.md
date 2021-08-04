@@ -5,9 +5,8 @@
 - **Bucket Name**:- s3-website-us-west-2.amazonaws.com
 - **Bucket Source**:- http://flaws.cloud
 
-<br>
 
-> **Steps To reproduce:-**
+### Steps To reproduce:-
 
 * Go to [flaws.cloud](http://flaws.cloud)
 * Enumerate the host IP
@@ -36,12 +35,12 @@ flaws.cloud has address 52.218.169.210
 ```
 * Read the Secret document.
 
-> **What Can I Do:-**
+### What Can I Do:-
 
 * List all files.
 * Download any file to my local machine.
 
-> **POC:-**
+### POC:-
 
 ![Commands](https://raw.githubusercontent.com/sudo-Ayush/Vuln_cloud/main/Poc/poc1.PNG)
 <br>
