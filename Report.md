@@ -34,7 +34,7 @@ flaws.cloud has address 52.218.169.210
 2017-02-26 20:59:28         46 robots.txt
 2017-02-26 20:59:30       1051 secret-dd02c7c.html
 ```
-* Read the Secret document
+* Read the Secret document.
 
 > **What Can I Do:-**
 
@@ -43,3 +43,7 @@ flaws.cloud has address 52.218.169.210
 
 > **POC:-**
 
+![Commands](https://raw.githubusercontent.com/sudo-Ayush/Vuln_cloud/main/Poc/poc1.PNG)
+<br>
+
+![Secret document](https://raw.githubusercontent.com/sudo-Ayush/Vuln_cloud/main/Poc/poc2.PNG)
